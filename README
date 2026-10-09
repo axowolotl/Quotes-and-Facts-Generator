@@ -1,0 +1,14 @@
+ᰔ **Ini adalah bot discord yang dapat mengenerate quotes dan facts secara acak! Selain itu, ada juga fitur supaya pengguna dapat menambahkan quotes dan facts baru, mau pun menghapus quotes dan facts.** ᰔ
+*-Library used ➤ discord.py*
+*-Database used ➤ SQLite3*
+ᰔ **Cara Setup Bot** ᰔ
+➜ Download atau unduhkan code yang telah diupload ke GitHub, buka aplikasi programmingnya (cth. Visual Studio Code), dan buka folder yang berisi dengan code tersebut.
+➜ Dalam file bot.py, isi token botmu sendiri, dan jalankan init_db.py dulu, kemudian jalankan bot.py. Bot akan teraktivasi setelah beberapa detik atau menit tergantung Wi-Fi.
+── .✦ **Setelah itu, bot siap digunakan! Silakan mencoba botnya dengan beberapa commands berikut:**
+✧ /help
+✧ /remove_fact
+✧ /remove_quote
+✧ /add_fact
+✧ /add_quote
+✧ /fact
+✧ /quote
